@@ -1,0 +1,17 @@
+{
+  "name": "wheather-cli",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "Oleksandr Cheban",
+  "license": "ISC"
+}
