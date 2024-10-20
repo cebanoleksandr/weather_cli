@@ -1,11 +1,11 @@
 {
-  "name": "wheather-cli",
+  "name": "wheather-cli-node",
   "type": "module",
   "version": "1.0.0",
   "description": "CLI for getting weather",
   "main": "weather.js",
   "bin": {
-    "weather": "./weather.js"
+    "weather": "weather.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
